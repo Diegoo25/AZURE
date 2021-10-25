@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'azurewebb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1F670580E8074326A0AE383AB0533570 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CE70D3CCCAF4B289A0A8BDD3CA032C3 }}
           package: .
